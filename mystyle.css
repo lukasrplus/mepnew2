@@ -1,0 +1,44 @@
+.contact {
+	text-align: center;
+}
+
+.contact-info {
+	text-align: center;
+	list-style-type: none;
+	font-size: 17px;
+	padding-right: 40px;
+	color: #fff;
+}
+
+.testimonials-slider {
+	top: -419px;
+}
+
+.team-descr {
+	text-align: center;
+}
+
+.fa-linkedin {
+	font-size: 40px;
+	padding-top: 20px;
+	text-align: center;
+	width: 100%;
+}
+
+
+.team-social a:hover {
+	color: #0FD8DA;
+}
+
+#link {
+	width: 100%;
+}
+
+.module-title-white {
+	color: #fff;
+	text-align: center;
+}
+
+.white {
+	color: #fff;
+}
