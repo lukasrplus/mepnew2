@@ -14,7 +14,7 @@ General Styles - FlexSlider
 .flex-direction-nav a {
 	position: absolute;
 	display: block;
-	height: 100%;
+
 	width: 50%;
 	top: 0;
 	z-index: 10;
