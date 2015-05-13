@@ -35,6 +35,8 @@ h1.main,p.demos {
   left: 0px;
   top: 0px;
   z-index: 1000;
+  font-family: Volkhov, "Times New Roman", sans-serif;
+  font-style: italic;
 }
 .sp-container h2 {
   position: absolute;
@@ -42,7 +44,7 @@ h1.main,p.demos {
   line-height: 100px;
   height: 90px;
   margin-top: -50px;
-  font-size: 40px;
+  font-size: 30px;
   width: 100%;
   text-align: center;
   color: transparent;
