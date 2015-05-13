@@ -34,6 +34,10 @@
   width: 100%;
 }
 
+#features {
+  background: url('http://feelgrafix.com/data_images/out/3/757563-bridge-wallpaper.jpg');
+}
+
 .module-title-white {
   color: #fff;
   text-align: center;
