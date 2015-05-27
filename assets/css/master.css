@@ -1,5 +1,6 @@
-.contact {
+#contact {
   text-align: center;
+  height: 500px;
 }
 
 .contact-info {
@@ -42,6 +43,18 @@
 
 .white {
   color: #fff;
+}
+
+.vienna_bg {
+  background-image: url(http://www.legion-mariens.at/files/2011/01/16a-wien.jpg);
+  background-size: cover;
+  height: 100%;
+}
+
+.london_bg {
+  background-image: url(http://www.clinkhostels.com/wp-content/uploads/2015/03/london22.jpg);
+  background-size: cover;
+  height: 100%;
 }
 
 
