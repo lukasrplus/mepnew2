@@ -19,9 +19,8 @@ html {
 }
 
 body {
-	background: #fff;
+	background-color: #0090d4;
 	font: 400 12px/1.8 "Open Sans", sans-serif;
-	color: #666;
 	-webkit-font-smoothing: antialiased;
 }
 
@@ -611,7 +610,7 @@ Navbar
 ------------------------------------------------------------------- */
 
 .navbar-custom {
-	background-color: rgba(10, 10, 10, .9);
+	background-color: #0090d4;
 	border: 0;
 	border-radius: 0;
 	z-index: 1000;
